@@ -2,9 +2,9 @@
 
 # 상세 ─ Description
 
-[한성과학고등학교](https://hansungsh.sen.hs.kr/)의 정보 과학 동아리 **ESC** 입니다.
+[한성과학고등학교](https://hansungsh.sen.hs.kr/)의 정보 과학 동아리 [**ESC**](https://hsshesc.github.io/) 입니다.
 
-**ESC** is the Computer Science Club at [Hansung Science High School](https://hansungsh.sen.hs.kr/)
+[**ESC**](https://hsshesc.github.io/) is the Computer Science Club at [Hansung Science High School](https://hansungsh.sen.hs.kr/)
 
 | President | Vice President |
 | :-: | :-: |
